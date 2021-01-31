@@ -1,0 +1,4 @@
+baseURL = "https://sheetmusicbeemogholuh.vercel.app"
+languageCode = "en-us"
+title = "Viral Piano Sheet Music"
+theme = "hugo-theme-minos"
